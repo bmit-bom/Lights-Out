@@ -17,8 +17,6 @@ namespace lights_out
             InitializeComponent();
         }
 
-        // no commands avaiable, except this one, because I don't know, what I should write as comment :P
-
         private void A1_Click(object sender, EventArgs e)
         {
             ChangeColorA1();
