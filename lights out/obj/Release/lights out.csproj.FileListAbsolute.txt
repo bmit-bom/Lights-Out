@@ -1,0 +1,9 @@
+D:\GitHub\Lights Out\lights out\bin\Release\lights out.exe.config
+D:\GitHub\Lights Out\lights out\bin\Release\lights out.exe
+D:\GitHub\Lights Out\lights out\bin\Release\lights out.pdb
+D:\GitHub\Lights Out\lights out\obj\Release\lights out.csprojResolveAssemblyReference.cache
+D:\GitHub\Lights Out\lights out\obj\Release\lights_out.Form1.resources
+D:\GitHub\Lights Out\lights out\obj\Release\lights_out.Properties.Resources.resources
+D:\GitHub\Lights Out\lights out\obj\Release\lights out.csproj.GenerateResource.Cache
+D:\GitHub\Lights Out\lights out\obj\Release\lights out.exe
+D:\GitHub\Lights Out\lights out\obj\Release\lights out.pdb
